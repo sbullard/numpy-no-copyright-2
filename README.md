@@ -1,0 +1,1 @@
+# numpy-no-copyright-2
